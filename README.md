@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://github.com/satyamkeshar/My_resume/blob/main/Resume.pdf](https://github.com/satyamkeshar/My_resume/blob/main/Resume.pdf)
 
-- ⚡ Fun fact **I know Computer's Nature more than Human Nature!**
+- ⚡ Fun fact: **I know Computer's Nature more than Human Nature!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
